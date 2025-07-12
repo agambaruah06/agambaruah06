@@ -1,4 +1,3 @@
-# 💫 About Me:
 # 👋 Hi, I'm Agam <br/><br><br>🎓 I'm a student at **IISER Pune** exploring science, technology, and design. I’m passionate about learning across disciplines, combining analytical thinking with creativity to build clear, useful, and aesthetic solutions.
 
 ## 🌐 Socials:
